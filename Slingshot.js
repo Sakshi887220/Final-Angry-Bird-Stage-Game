@@ -3,7 +3,7 @@ class SlingShot{
         var options = {
             bodyA: bodyA,
             pointB: pointB,
-            stiffness: 1,
+            stiffness: 0.5,
             length: 10
         }
         this.sling1 = loadImage('sprites/sling1.png');
