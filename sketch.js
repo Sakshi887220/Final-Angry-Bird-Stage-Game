@@ -87,7 +87,7 @@ else{
     background(iam);
     textSize(25)
     fill ('white')   
-    text('Score'+score,900,50)
+    text('Score' +score,900,50)
     
 if(birds.length>0){
     text('Press space to attach the bird',width/2-200,25)
